@@ -4,10 +4,8 @@
     {
         while (true)
         {
-            Console.Write("Enter the value of X: ");
-            int X = int.Parse(Console.ReadLine());
-            Console.Write("Enter the value of Y: ");
-            int Y = int.Parse(Console.ReadLine());
+            int X = GetValidatedInput("Enter the value of X (0-1000): ");
+            int Y = GetValidatedInput("Enter the value of Y (0-1000): ");
 
             List<string> paths = new List<string>();
 
@@ -43,6 +41,19 @@
                 break;
             }
         }
+    }
+
+    static int GetValidatedInput(string promptMessage)
+    {
+        Console.Write(promptMessage);
+        int value = Convert.ToInt32(Console.ReadLine());
+
+        if (value < 0 || value > 1000)
+        {
+            Console.WriteLine("Please enter a valid value between 0 and 1000.");
+            return GetValidatedInput(promptMessage);
+        }
+        return value;
     }
 
     static void CountingPaths(int X, int Y, string path, int xNorth, int yEast, char lastMove, List<string> paths)

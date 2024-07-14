@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\CountingPathsTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{946C4B06-29CA-4DD6-9ACB-896E7BFDC9EC}|CountingPathsTask\\CountingPathsTask.csproj|c:\\users\\hp\\source\\repos\\countingpathstask\\countingpathstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{946C4B06-29CA-4DD6-9ACB-896E7BFDC9EC}|CountingPathsTask\\CountingPathsTask.csproj|solutionrelative:countingpathstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{946C4B06-29CA-4DD6-9ACB-896E7BFDC9EC}|CountingPathsTask\\CountingPathsTask.csproj|c:\\users\\hp\\source\\repos\\countingpathstask\\countingpathstask\\countingpathstask.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{946C4B06-29CA-4DD6-9ACB-896E7BFDC9EC}|CountingPathsTask\\CountingPathsTask.csproj|solutionrelative:countingpathstask\\countingpathstask.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountingPathsTask",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CountingPathsTask\\CountingPathsTask\\CountingPathsTask.csproj",
+              "RelativeDocumentMoniker": "CountingPathsTask\\CountingPathsTask.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CountingPathsTask\\CountingPathsTask\\CountingPathsTask.csproj",
+              "RelativeToolTip": "CountingPathsTask\\CountingPathsTask.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-14T06:45:17.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CountingPathsTask\\CountingPathsTask\\Program.cs",
+              "RelativeDocumentMoniker": "CountingPathsTask\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CountingPathsTask\\CountingPathsTask\\Program.cs",
+              "RelativeToolTip": "CountingPathsTask\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:37:12.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

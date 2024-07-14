@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\CountingPathsTask\CountingPathsTask\bin\Debug\net8.0\CountingPathsTask.exe
+C:\Users\HP\source\repos\CountingPathsTask\CountingPathsTask\bin\Debug\net8.0\CountingPathsTask.deps.json
+C:\Users\HP\source\repos\CountingPathsTask\CountingPathsTask\bin\Debug\net8.0\CountingPathsTask.runtimeconfig.json
+C:\Users\HP\source\repos\CountingPathsTask\CountingPathsTask\bin\Debug\net8.0\CountingPathsTask.dll
+C:\Users\HP\source\repos\CountingPathsTask\CountingPathsTask\bin\Debug\net8.0\CountingPathsTask.pdb
+C:\Users\HP\source\repos\CountingPathsTask\CountingPathsTask\obj\Debug\net8.0\CountingPathsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CountingPathsTask\CountingPathsTask\obj\Debug\net8.0\CountingPathsTask.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CountingPathsTask\CountingPathsTask\obj\Debug\net8.0\CountingPathsTask.AssemblyInfo.cs
+C:\Users\HP\source\repos\CountingPathsTask\CountingPathsTask\obj\Debug\net8.0\CountingPathsTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CountingPathsTask\CountingPathsTask\obj\Debug\net8.0\CountingPathsTask.dll
+C:\Users\HP\source\repos\CountingPathsTask\CountingPathsTask\obj\Debug\net8.0\refint\CountingPathsTask.dll
+C:\Users\HP\source\repos\CountingPathsTask\CountingPathsTask\obj\Debug\net8.0\CountingPathsTask.pdb
+C:\Users\HP\source\repos\CountingPathsTask\CountingPathsTask\obj\Debug\net8.0\CountingPathsTask.genruntimeconfig.cache
+C:\Users\HP\source\repos\CountingPathsTask\CountingPathsTask\obj\Debug\net8.0\ref\CountingPathsTask.dll
+C:\Users\HP\source\repos\CountingPathsTask\CountingPathsTask\obj\Debug\net8.0\CountingPathsTask.sourcelink.json
